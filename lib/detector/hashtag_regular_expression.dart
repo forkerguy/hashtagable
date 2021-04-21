@@ -10,7 +10,7 @@ const _koreanLetters = '\u1100-\u11FF\uAC00-\uD7A3';
 
 const _spanishLetters = 'áàãâéêíóôõúüçÁÀÃÂÉÊÍÓÔÕÚÜÇ';
 
-const _arabicLetters = '\u0621-\u064A';
+const _arabicLetters = '\u0621-\u064A\u0660-\u0669\u066E-\u06DC\u06F0-\u06F9';
 
 const _thaiLetters = '\u0E00-\u0E7F';
 
